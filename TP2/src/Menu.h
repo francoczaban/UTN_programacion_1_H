@@ -1,0 +1,2 @@
+int menuPrincipal();
+int subMenu();
